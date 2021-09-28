@@ -1,0 +1,19 @@
+ion-content{
+    --ion-background-color:#d9ecfb ;
+   --background: url(../assets/img/medicines-medical-supplies-placed-blue.jpg) 0 0/100% 100% no-repeat;
+    --padding-top: 5%;
+    --padding-botttom:10%;
+}
+
+.desc1{
+    font-size: 200%;
+    color: rgb(7, 7, 7); 
+    font-family: var(--ion-font-family, inherit);
+    font-weight:650;
+ }
+ .desc2{
+    font-size: 150%;
+    color: rgb(7, 7, 7); 
+    font-family: var(--ion-font-family, inherit);
+    font-weight: 400;
+}
